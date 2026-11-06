@@ -1,0 +1,36 @@
+{
+  "ecs7": true,
+  "runtimeVersion": "7",
+  "isPortableExperience": true,
+  "display": {
+    "title": "Retro Rocket Jetpack",
+    "description": "Smart wearable: press F to fire a retro twin-rocket jetpack.",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": ""
+  },
+  "owner": "",
+  "contact": {
+    "name": "SDK",
+    "email": ""
+  },
+  "main": "bin/index.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "0,0"
+    ],
+    "base": "0,0"
+  },
+  "requiredPermissions": [
+    "ALLOW_TO_TRIGGER_AVATAR_EMOTE"
+  ],
+  "featureToggles": {
+    "voiceChat": "enabled",
+    "portableExperiences": "enabled",
+    "nearbyVoiceChat": "enabled"
+  },
+  "creator": "",
+  "spawnPoints": [],
+  "skyboxConfig": {},
+  "landscapeTerrain": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e44d6b02-5037-4d70-9a9b-0b96a3e4ace2",
+  "name": "Retro Rocket Jetpack",
+  "description": "Press F to fly. Hold to climb until the fuel bar runs dry.",
+  "rarity": "mythic",
+  "data": {
+    "replaces": [],
+    "hides": [],
+    "tags": [
+      "jetpack",
+      "retro",
+      "rocket",
+      "racing",
+      "suit",
+      "smart"
+    ],
+    "representations": [
+      {
+        "bodyShapes": [
+          "urn:decentraland:off-chain:base-avatars:BaseMale"
+        ],
+        "mainFile": "models/male/jetpack_suit.glb",
+        "contents": [
+          "models/male/jetpack_suit.glb"
+        ],
+        "overrideHides": [],
+        "overrideReplaces": []
+      },
+      {
+        "bodyShapes": [
+          "urn:decentraland:off-chain:base-avatars:BaseFemale"
+        ],
+        "mainFile": "models/female/jetpack_suit.glb",
+        "contents": [
+          "models/female/jetpack_suit.glb"
+        ],
+        "overrideHides": [],
+        "overrideReplaces": []
+      }
+    ],
+    "category": "upper_body"
+  }
+}
